@@ -88,6 +88,16 @@
 
 	<label><input type="radio" name="ankieta8" value="Tak" /> Nie</label>
 	<br /><br />
+	9. Czy pozytywnie podchodzi Pani/Pan do reklam na serwisach społecznościowych? 
+	
+		<label><input type="radio" name="ankieta9" value="Tak"/> Tak</label>
+		<label><input type="radio" name="ankieta9" value="Tak"/> Nie</label>
+	
+	<br /><br />
+	10. Jakie rodzaje reklam podobają się Panu/Pani najbardziej?
+		
+		<label><input type="radio" name="ankieta9" value="Tak"/> Filmiki</label>
+		<label><input type="radio" name="ankieta9" value="Tak"/> Zdjęcia</label>
 	
 	
 	
