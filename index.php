@@ -10,7 +10,10 @@
 	
 	Witamy w naszej ankiecie!<br /><br />
 	<form action="index.php" method="post"> 
-	
+	Imię:<br /> 
+	<input type="text" name="imie" /><br /> 
+	Nazwisko:<br /> 
+	<input type="text" name="nazwisko" /><br /> 
 	Oto pytania:<br /><br />
 	
 	<form action="checkbox-form.php" method="post">
@@ -18,9 +21,9 @@
 	1. Czy często korzystasz z portali społecznościowych?
 
 	
-  <label><input type="radio" name="ankieta" value="Tak"/> tak</label>
+  <label><input type="radio" name="ankieta" value="Tak"/> Tak</label>
 
-  <label><input type="radio" name="ankieta" value="Tak" /> nie</label>
+  <label><input type="radio" name="ankieta" value="Tak" /> Nie</label>
   
   <br /><br />
   
@@ -96,8 +99,8 @@
 	<br /><br />
 	10. Jakie rodzaje reklam podobają się Panu/Pani najbardziej?
 		
-		<label><input type="radio" name="ankieta9" value="Tak"/> Filmiki</label>
-		<label><input type="radio" name="ankieta9" value="Tak"/> Zdjęcia</label>
+		<label><input type="radio" name="ankieta10" value="Tak"/> Filmiki</label>
+		<label><input type="radio" name="ankieta10" value="Tak"/> Zdjęcia</label>
 	
 	<br /><br />
 	
