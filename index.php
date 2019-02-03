@@ -99,7 +99,7 @@
 		<label><input type="radio" name="ankieta9" value="Tak"/> Filmiki</label>
 		<label><input type="radio" name="ankieta9" value="Tak"/> Zdjęcia</label>
 	
-	
+	<br /><br />
 	
 	<input type="submit" value="Wyślij" /> 
 </form>
