@@ -9,6 +9,8 @@
 <body>
 	
 	Witamy w naszej ankiecie!<br /><br />
+	<form action="index.php" method="post"> 
+	
 	Oto pytania:<br /><br />
 	
 	<form action="checkbox-form.php" method="post">
@@ -22,30 +24,78 @@
   
   <br /><br />
   
-	<form action="checkbox-form.php" method="post">
+	
 	
 	2. Z jakich najczęściej?
 	
-	<label><input type="radio" name="ankieta" value="Tak"/> Facebook</label>
+	<label><input type="radio" name="ankieta2" value="Tak"/> Facebook</label>
 
-	<label><input type="radio" name="ankieta" value="Tak" /> Instagram</label>
+	<label><input type="radio" name="ankieta2" value="Tak" /> Instagram</label>
 
-	<label><input type="radio" name="ankieta" value="Tak" /> Twitter</label>
+	<label><input type="radio" name="ankieta2" value="Tak" /> Twitter</label>
 	
 	
 	<br /><br />
 	
-	<form action="checkbox-form.php" method="post">
+	
 	
 	3. Ile czasu (dziennie) spędzasz na portalach internetowych?
 	
-	<label><input type="radio" name="ankieta" value="Tak"/> Mniej niż 2 godziny</label>
+	<label><input type="radio" name="ankieta3" value="Tak"/> Mniej niż 2 godziny</label>
 
-	<label><input type="radio" name="ankieta" value="Tak" /> Więcej niż 2 godziny</label>
+	<label><input type="radio" name="ankieta3" value="Tak" /> Więcej niż 2 godziny</label>
 	
+	<br /><br />
+	
+	
+	
+	4.Czy posiada Pani/Pan konto na jakimkolwiek portalu społecznościowym?
+	
+		<label><input type="radio" name="ankieta4" value="Tak"/> Tak</label>
+
+		<label><input type="radio" name="ankieta4" value="Tak" /> Nie</label>
+		
+	<br /><br />
+	
+	5.Czy korzysta Pani/Pan z urządzeń mobilnych do przeglądania portali społecznościowych?
+	
+		<label><input type="radio" name="ankieta5" value="Tak"/> Tak</label>
+
+		<label><input type="radio" name="ankieta5" value="Tak" /> Nie</label>
+	
+	<br /><br />
+	
+	
+	
+	6.Czy uległa Pani/Pan kiedykolwiek reklamie w internecie?
+	
+	<label><input type="radio" name="ankieta6" value="Tak"/> Tak</label>
+
+	<label><input type="radio" name="ankieta6" value="Tak" /> Nie</label>
+	
+	<br /><br />
+	
+	7.Czy bierze Pani/Pan udział w konkursach w internecie?
+	
+	<label><input type="radio" name="ankieta7" value="Tak"/> Tak</label>
+
+	<label><input type="radio" name="ankieta7" value="Tak" /> Nie</label>
+	
+	<br /><br />
+	8.Czy czyta Pani/Pan artykuły sponsorowane w internecie?
+	
+	<label><input type="radio" name="ankieta8" value="Tak"/> Tak</label>
+
+	<label><input type="radio" name="ankieta8" value="Tak" /> Nie</label>
+	<br /><br />
+	
+	
+	
+	<input type="submit" value="Wyślij" /> 
 </form>
 
 </body>
 </html>
+
 
 
