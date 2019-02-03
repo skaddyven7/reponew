@@ -28,24 +28,24 @@
   
 	
 	
-	2. Z jakich najczęściej?
+	2. Posiada Pan/Pani konto na Facebooku?
 	
-	<label><input type="radio" name="P2" value="Tak"/> Facebook</label>
+	<label><input type="radio" name="P2" value="Tak"/> Tak</label>
 
-	<label><input type="radio" name="P2" value="Tak" /> Instagram</label>
+	<label><input type="radio" name="P2" value="Tak" /> Nie</label>
 
-	<label><input type="radio" name="P2" value="Tak" /> Twitter</label>
+	
 	
 	
 	<br /><br />
 	
 	
 	
-	3. Ile czasu (dziennie) spędzasz na portalach internetowych?
+	3. Czy spędza Pan/Pani na Facebooku więcej czasu niż 2 godziny dziennie?
 	
-	<label><input type="radio" name="P3" value="Tak"/> Mniej niż 2 godziny</label>
+	<label><input type="radio" name="P3" value="Tak"/> Tak</label>
 
-	<label><input type="radio" name="P3" value="Tak" /> Więcej niż 2 godziny</label>
+	<label><input type="radio" name="P3" value="Tak" /> Nie</label>
 	
 	<br /><br />
 	
@@ -96,10 +96,10 @@
 		<label><input type="radio" name="P9" value="Tak"/> Nie</label>
 	
 	<br /><br />
-	10. Jakie rodzaje reklam podobają się Panu/Pani najbardziej?
+	10. Myśli Pan/Pani, że portale społecznościowe to pozytywny dodatek do naszego życia?
 		
-		<label><input type="radio" name="P10" value="Tak"/> Filmiki</label>
-		<label><input type="radio" name="P10" value="Tak"/> Zdjęcia</label>
+		<label><input type="radio" name="P10" value="Tak"/> Tak</label>
+		<label><input type="radio" name="P10" value="Tak"/> Nie</label>
 	
 	<br /><br />
 	
